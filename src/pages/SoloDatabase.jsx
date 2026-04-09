@@ -66,8 +66,7 @@ function SoloDatabase() {
           The study was completed successfully, and the clients received a good mark. The database 
           stayed stable throughout, with the one naming conflict caught and corrected cleanly 
           without data loss. Working with real clients on a live database over several months, 
-          under vague and evolving requirements, is a different experience from a classroom assignment, 
-          and that is what this project is about.
+          under vague and evolving requirements, is a different experience from a classroom assignment.
         </p>
       </section>
     </div>

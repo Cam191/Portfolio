@@ -32,7 +32,7 @@ function ShopWebsite() {
       <section>
         <h2>Challenges</h2>
         <p>
-          Each iteration required converting existing React code to work within Next.js, which meant rewriting parts of the system 
+          A major iteration required converting existing React code to work within Next.js, which meant rewriting parts of the system 
           that worked fine before but were incompatible with how Next.js handles rendering and routing. Errors became harder to trace 
           as the framework added layers between the code and the output.
         </p>
@@ -58,7 +58,7 @@ function ShopWebsite() {
           URL</li>
           <li><strong>Debugging outside your control</strong> — the Contentful issue was real experience hitting a wall where the code 
           is correct and the problem is somewhere else. Knowing when to keep digging versus when to work around it is a practical skill</li>
-          <li><strong>Iterative development</strong> — rebuilding parts of the same system three times as requirements changed without 
+          <li><strong>Iterative development</strong> — rebuilding parts of the same system as requirements changed without 
           breaking what already worked</li>
         </ul>
       </section>
@@ -68,8 +68,8 @@ function ShopWebsite() {
         <p>
           Pagination, authentication, login and logout, and route protection all work correctly. The Contentful update issue was 
           never resolved; the keys stopped being accepted without a clear cause, and the problem sat outside what could be diagnosed from 
-          the application side. Working within an established framework across three iterations with changing requirements is a different 
-          kind of experience from building something from scratch, and that is what this project is about.
+          the application side. Working within an established framework with changing requirements is a different 
+          kind of experience from building something from scratch.
         </p>
       </section>
     </div>
